@@ -54,5 +54,6 @@ Router --> |Lan 3| PC3
 Router --> |Lan 4| Printer
 
 ```
-<img width="1152" height="648" alt="Projeto de rede local" src="https://github.com/user-attachments/assets/871bb3f4-1367-4f90-a583-929fb970bd48" />
+
+<img width="1152" height="648" alt="Projeto rede local" src="https://github.com/user-attachments/assets/04280506-8875-428d-aec5-7b6dc4fc9e2d" />
 
