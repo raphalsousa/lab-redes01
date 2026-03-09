@@ -28,3 +28,9 @@ O projeto será realizado em duas etapas
 - 1 impressora de rede
 - cabos de rede
 
+---
+
+## 3. Topologia da rede
+Diagrama lógico da rede utilizada nesse laboratório
+
+´´´ mermaid
