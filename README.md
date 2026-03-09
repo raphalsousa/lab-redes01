@@ -21,8 +21,8 @@ O projeto será realizado em duas etapas
 ---
 
 ## 2. Equipamentos utilizados neste laboratório
-
--3 notebooks
--1 roteador wireless com 1 porta WAN e 4 portas LAN 
+- 3 notebooks
+- 1 roteador wireless com 1 porta WAN e 4 portas LAN
+- 1 impressora de rede
 - cabos de rede
 
