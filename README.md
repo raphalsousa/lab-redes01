@@ -16,7 +16,9 @@ Implementar uma rede local simoles conectando 3 notebooks a um roteador wireless
 
 O projeto será realizado em duas etapas
 1.Simulação de rede no Cisco packet Tracer 
+
 2.Implementação de rede no laboratrorio real.
+
 
 ---
 
