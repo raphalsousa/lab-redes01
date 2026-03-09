@@ -57,3 +57,46 @@ Router --> |Lan 4| Printer
 
 <img width="1152" height="648" alt="Projeto rede local" src="https://github.com/user-attachments/assets/04280506-8875-428d-aec5-7b6dc4fc9e2d" />
 
+
+## 4.Plano de endereçamento IP
+
+Rede: 192.168.0.0/24 
+Gateway: 192.168.0.1
+
+| Dispositivo | Tipo de IP | Endereço IP | Observação |
+|-------------|-------------|-------------|-------------|
+| Roteador | Estatico | 192.168.0.1 | IP do roteador |
+| PC1 | Reserva DHCP | 192.168.0.101 | IP Reservado pelo roteador |
+| PC2 | DHCP | Automatico | IP Atribuido pelo roteador |
+
+**Observação**
+- A impressora é um dos notebooks utilizam reserva DHCP
+- O roteador sempre atribui o mesmo endereço IP e esses dispositivos.
+
+  ---
+
+  ## 5. Implementação no laboratorio Real
+  
+  após a instalação, a rede foi montada fisicamente no labiratorio
+
+  Etapas realizadas:
+  
+  (fotos)
+
+  Testes:
+
+  (fotos)
+
+  ---
+
+  ## 6. conclusão
+  Este laboratorio conseguie compreender o funcionamento de uma rede local simples, incluindo:
+
+  - Estrura de uma rede domestica ou de um pequeno escritorio
+  - Utilizando de um roteador de porta WAN e portas LAN
+  - funcionamento do DHCP
+  - comunicação entre dispositivos de rede local
+  - utilização de uma im,pressora de rede
+  - compartilhamentos de uma impressora de rede
+  - compartilhamentos de pastas na rede
+  
