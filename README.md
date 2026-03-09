@@ -33,4 +33,22 @@ O projeto será realizado em duas etapas
 ## 3. Topologia da rede
 Diagrama lógico da rede utilizada nesse laboratório
 
-´´´ mermaid
+``` mermaid
+graph TD
+
+WAN[Internet / WAN Provedor]
+
+Router[Roteador Wireless<br>1 Porta WAN<br> 4 Portas LAN]
+
+PC1[notebook 1]
+PC2[notebook 2]
+PC3[notebook 3]
+
+Printer[Impressora de Rede]
+
+WAN --> |Porta Wan| Router
+
+Router --> |Lan 1| PC1  
+Router --> |Lan 2| PC2
+Router --> |Lan 3| PC3
+Router --> |Lan 4| Printer
